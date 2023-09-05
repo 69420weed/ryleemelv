@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="radio_datagram_send" id="Ah_;tvTENsiA9z`wr.JQ" disabled="true" x="-251" y="-52"><value name="value"><shadow type="math_number" id="6Ct6TfV`T^xw;aTC_AG(" disabled="true"><field name="NUM">0</field></shadow></value></block><block type="device_forever" id="uc;$nwrL2O%,?yViP9SB" x="0" y="0"><statement name="HANDLER"><block type="device_led_enable" id="Ic]uMHnul0P:w%+LO+u5"><value name="on"><shadow type="logic_boolean" id="IojG^!+2#xP+aF)bz9,]"><field name="BOOL">TRUE</field></shadow></value><next><block type="device_show_leds" id="I@ECH;I3UVo_+3EEh#Q6"><field name="LEDS">`
+        # . # . # 
+        . # . # . 
+        . . . . . 
+        # . . # . 
+        . # . . .
+        `</field><next><block type="radio_set_frequency_band" id="0f8aOdTKZ8~oFjO.kw!P"><value name="band"><shadow type="math_number_minmax" id="w~Gxmj_]*7VtVOW7`,-W"><mutation min="0" max="83" label="Band" precision="0"></mutation><field name="SLIDER">83</field></shadow></value></block></next></block></next></block></statement></block></xml>
